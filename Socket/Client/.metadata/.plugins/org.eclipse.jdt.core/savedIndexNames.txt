@@ -1,0 +1,7 @@
+INDEX VERSION 1.127+/Users/nptan2005/WorkSpaceApp/JavaGitPublic/Socket/Client/.metadata/.plugins/org.eclipse.jdt.core
+325061775.index
+3210912141.index
+2401055690.index
+3886640424.index
+219212267.index
+2148325005.index

@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/hdb/!svn/ver/2610/HDBGATEWAY/lib
+END
+axis.jar
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/hdb/!svn/ver/2610/HDBGATEWAY/lib/axis.jar
+END
+wsdl4j.jar
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/hdb/!svn/ver/2610/HDBGATEWAY/lib/wsdl4j.jar
+END
+jdbm-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/hdb/!svn/ver/2322/HDBGATEWAY/lib/jdbm-1.0.jar
+END
+ATMtuxedo.jar
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/hdb/!svn/ver/2322/HDBGATEWAY/lib/ATMtuxedo.jar
+END
+jpos.jar
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/hdb/!svn/ver/2322/HDBGATEWAY/lib/jpos.jar
+END
+commons-discovery-0.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/hdb/!svn/ver/2610/HDBGATEWAY/lib/commons-discovery-0.2.jar
+END
+saaj.jar
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/hdb/!svn/ver/2610/HDBGATEWAY/lib/saaj.jar
+END
+log4j.jar
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/hdb/!svn/ver/2322/HDBGATEWAY/lib/log4j.jar
+END
+commons-cli.jar
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/hdb/!svn/ver/2322/HDBGATEWAY/lib/commons-cli.jar
+END
+jce-jdk13-136.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/hdb/!svn/ver/2489/HDBGATEWAY/lib/jce-jdk13-136.jar
+END
+eKernelInf.jar
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/hdb/!svn/ver/2610/HDBGATEWAY/lib/eKernelInf.jar
+END
+eKernel.jar
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/hdb/!svn/ver/2610/HDBGATEWAY/lib/eKernel.jar
+END
+ojdbc14.jar
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/hdb/!svn/ver/2322/HDBGATEWAY/lib/ojdbc14.jar
+END
+jaxrpc.jar
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/hdb/!svn/ver/2610/HDBGATEWAY/lib/jaxrpc.jar
+END
+eFinCommonInf.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/hdb/!svn/ver/2610/HDBGATEWAY/lib/eFinCommonInf.jar
+END
+eTellerInf.jar
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/hdb/!svn/ver/2610/HDBGATEWAY/lib/eTellerInf.jar
+END
+jdom.jar
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/hdb/!svn/ver/2322/HDBGATEWAY/lib/jdom.jar
+END
+xerces.jar
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/hdb/!svn/ver/2322/HDBGATEWAY/lib/xerces.jar
+END
+eFinCommon.jar
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/hdb/!svn/ver/2610/HDBGATEWAY/lib/eFinCommon.jar
+END
+netSymbols.ear
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/hdb/!svn/ver/2610/HDBGATEWAY/lib/netSymbols.ear
+END
+weblogic.jar
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/hdb/!svn/ver/2322/HDBGATEWAY/lib/weblogic.jar
+END
+eTeller.jar
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/hdb/!svn/ver/2610/HDBGATEWAY/lib/eTeller.jar
+END
+parser.jar
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/hdb/!svn/ver/2322/HDBGATEWAY/lib/parser.jar
+END
+ecrmappcommonInf.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/hdb/!svn/ver/2610/HDBGATEWAY/lib/ecrmappcommonInf.jar
+END
+jline-0.9.91.jar
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/hdb/!svn/ver/2322/HDBGATEWAY/lib/jline-0.9.91.jar
+END
+commons-logging.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/hdb/!svn/ver/2610/HDBGATEWAY/lib/commons-logging.jar
+END
+je-4.0.103.jar
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/hdb/!svn/ver/2322/HDBGATEWAY/lib/je-4.0.103.jar
+END
+xml.jar
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/hdb/!svn/ver/2322/HDBGATEWAY/lib/xml.jar
+END
+jaxp.jar
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/hdb/!svn/ver/2322/HDBGATEWAY/lib/jaxp.jar
+END
+dao.jar
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/hdb/!svn/ver/2610/HDBGATEWAY/lib/dao.jar
+END
